@@ -1,0 +1,5 @@
+[14:50:45] Ferramenta de Otimização de Unidades aberta.
+[14:50:55] Arquivos temporários limpos.
+[14:50:57] IP Local: 10.1.103.15
+[14:51:14] Cleanmgr aberto com sucesso. Usuário pode escolher o disco.
+[14:51:46] Update Manager aberto.
