@@ -52,11 +52,8 @@ class ToolkitSuporte:
             Relatorio.salvar_log(f"Erro ao abrir o Cleanmgr: {e}")
 
     def abrir_update_manager():
-        try:
-            subprocess.run(["control", "/name", "Microsoft.WindowsUpdate"], shell=True)
-            Relatorio.salvar_log("Update Manager aberto.")
-        except Exception as e:
-            Relatorio.salvar_log(f"Erro ao abrir o Update Manager: {e}")
+        print("dados empresariais")
+       
 
 
 class Relatorio:
